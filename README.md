@@ -51,3 +51,10 @@ True and predicted label -
 #Mirrored the training set. Report the confusion matrix - 
 
 ![image](https://user-images.githubusercontent.com/81118476/132134741-d67574eb-c157-4d2b-9f93-a2424bdbac8a.png)
+
+
+
+#Prediction with the testing data - 
+
+![image](https://user-images.githubusercontent.com/81118476/132134887-f16073a5-92b1-415f-94eb-b2215b1e6996.png)
+
